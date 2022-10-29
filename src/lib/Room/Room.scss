@@ -5,7 +5,7 @@
 	overflow: visible;
 	display: flex;
 	flex-flow: column;
-
+	max-width: 100%;
 	.vac-container-center {
 		height: 100%;
 		width: 100%;
@@ -42,7 +42,7 @@
 	}
 
 	.vac-messages-container {
-		max-width: 300px;
+
 		padding: 0 5px 5px;
 	}
 
