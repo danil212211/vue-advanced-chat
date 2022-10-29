@@ -29349,6 +29349,7 @@ const cssThemeVars = ({
     "--chat-color-caret": general.colorCaret,
     "--chat-border-style": general.borderStyle,
     "--chat-bg-scroll-icon": general.backgroundScrollIcon,
+    "--chat-container-mac-width": container.maxWidth,
     "--chat-container-border": container.border,
     "--chat-container-border-radius": container.borderRadius,
     "--chat-container-box-shadow": container.boxShadow,
