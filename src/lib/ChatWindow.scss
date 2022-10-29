@@ -21,6 +21,7 @@
 	}
 
 	.vac-chat-container {
+		max-width: var(--chat-container-max-width);
 		height: 100%;
 		display: flex;
 
