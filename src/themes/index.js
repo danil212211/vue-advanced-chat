@@ -16,7 +16,6 @@ export const defaultThemeStyles = {
 		container: {
 			border: 'none',
 			borderRadius: '4px',
-			maxWidth: '300px',
 			boxShadow:
 				'0px 1px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12)'
 		},
@@ -320,7 +319,6 @@ export const cssThemeVars = ({
 		'--chat-bg-scroll-icon': general.backgroundScrollIcon,
 
 		// container
-		'--chat-container-max-width' : container.maxWidth,
 		'--chat-container-border': container.border,
 		'--chat-container-border-radius': container.borderRadius,
 		'--chat-container-box-shadow': container.boxShadow,
